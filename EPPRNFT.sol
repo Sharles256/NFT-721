@@ -13,6 +13,8 @@ contract EPPRNFT is ERC721URIStorage {
 
     constructor() ERC721("EPPR NFT", "MI PRIMER NFT") {}
 
+//function totalSupply() public view returns(uint256){ return _tokenIds;      }
+
     event Mint(
         address indexed sender,
         address indexed owner,

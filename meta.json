@@ -1,8 +1,8 @@
 {
   "description": "Mi primer NFT creado con mi propio Smart Contract", 
   "external_url": "https://github.com/eppr/nft-721", 
-  "image": "https://raw.githubusercontent.com/EPPR/NFT-721/main/NFTeppr.png", 
-  "name": "EPPR POAP",
+  "image": "https://raw.githubusercontent.com/Sharles256/NFT-721/main/MSNFT.jpg", 
+  "name": "Columna Social",
   "attributes": [
     {
       "trait_type": "Base", 

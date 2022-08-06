@@ -1,8 +1,8 @@
 {
-  "description": "Mi primer NFT creado con mi propio Smart Contract", 
+  "description": "Mi tercer NFT creado con mi propio Smart Contract", 
   "external_url": "https://github.com/eppr/nft-721", 
   "image": "https://raw.githubusercontent.com/Sharles256/NFT-721/main/MTNFT.jpg", 
-  "name": "Columna Social",
+  "name": "Acantilado B",
   "attributes": [
     {
       "trait_type": "Base", 
